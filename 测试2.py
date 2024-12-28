@@ -1,2 +1,3 @@
+a = 1
 for i in range(100):
-    pass
+    if a >= 100:print("stop") 
