@@ -1,1 +1,0 @@
-dic1 = {"key1": "num2", "key2": "num2"}
